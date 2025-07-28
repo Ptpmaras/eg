@@ -1,0 +1,6 @@
+{
+  "build": {
+    "env": "python3.11"
+  },
+  "start": "python bot.py"
+}
